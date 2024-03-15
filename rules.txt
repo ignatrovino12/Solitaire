@@ -1,0 +1,27 @@
+SOLITAIRE RULES: 
+
+The RULES button will either make the rules appear or disappear.
+The RESET button will reset the game.
+The MODE button will change game mode (1 or 3 cards) and reset the game.
+
+The rank of cards in Solitaire is: K (high), Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2, A (low).
+
+There are five different types of piles in Solitaire:
+
+1. The Tableau: Seven piles that make up the main table.
+2. The Foundations: Four piles on which a whole suit or sequence must be built up.
+3. The Stock Pile: The remaining cards after the tableau is completed.
+4. The Show Pile: The 3 or less cards next to the stock pile that are drawn and can be used.
+5. The Waste Pile: The cards chosen not to be used and that wait to return to the stock pile.
+
+How to play:
+
+You can click on the stock pile to start drawing cards. If the cards fit in the tableau
+they can be moved accordingly (they need to be smaller with one than the tableau card and
+to have the opposed colour). Also any card can be placed in the foundation, but they 
+need to be placed in ascending order. Any card from the tableau can be moved in the
+foundation or back in the tableau and when a card faced downwards will have no other
+card on it, the card will face up as well. Only K-s can be placed on blank spaces in 
+the tableau. The point of this game is to complete the foundations.
+
+
